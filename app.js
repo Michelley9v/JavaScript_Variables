@@ -4,7 +4,13 @@ console.log(
 );
 
 // Exercise 1
-
+let lastName = "Ismail"
+var age = 58;
 // Exercise 2
+const firstName = "Ezz"
+firstName = "Ezz"
 
 // Exercise 3
+
+
+
